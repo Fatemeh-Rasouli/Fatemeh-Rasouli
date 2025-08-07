@@ -1,8 +1,8 @@
 ### Hi 👋 Welcome, I'm Fatemeh Rasouli  
 A Frontend Developer passionate about building modern and responsive user interfaces.
 
-- 🌱 I’m currently focused on improving my skills in React, TypeScript   
-- 📫 How to reach me: f.rasouli.dev@gmail.com.
+- 🌱 I’m currently focused on improving my skills in React
+- 📫 How to reach me: f.rasouli.dev@gmail.com
 - 
 ### Languages and Tools:
 <code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
