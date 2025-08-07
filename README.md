@@ -3,7 +3,6 @@ A Frontend Developer passionate about building modern and responsive user interf
 
 - 🌱 I’m currently focused on improving my skills in React
 - 📫 How to reach me: f.rasouli.dev@gmail.com
-- 
 ### Languages and Tools:
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
@@ -16,5 +15,5 @@ A Frontend Developer passionate about building modern and responsive user interf
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fatemeh-rasouli-2b2718307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhossein hajitabar" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirdev_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fatemeh-rasouli-2b2718307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fatemeh Rasouli" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elnaz__rs" height="30" width="40" /></a>
