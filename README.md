@@ -1,22 +1,148 @@
-### Hi 👋 Welcome, I'm Fatemeh(Elnaz) Rasouli  
-A Frontend Developer passionate about building modern and responsive user interfaces.
+<h1 align="center">Hi 👋 I'm Fatemeh (Elnaz) Rasouli</h1>
 
-- 🌱 I’m currently focused on improving my skills in React
-- 📫 How to reach me: f.rasouli.dev@gmail.com
-### Languages and Tools:
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-   <img src="https://camo.githubusercontent.com/e6fea164cfe9373591d8b46fd2abd05c3d74f3f400adf9b5946a47fc3eac4e13/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="Git" width="50" height="50">
-	   <img src="https://camo.githubusercontent.com/c6953b7dd27ddcce494145558bb8d3ebf21ed245dde85ace40b51a61ab9c5500/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667" alt="Redux" width="50" height="50">
-	
-  <img src="https://camo.githubusercontent.com/6d97626a83a6b403636542a254cf6bfc0fe03af0e7780d2144c8bf2d5f9cdfcf/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f736173732d69636f6e2e737667" alt="Sass" style="width: 50px; height: 50px;">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="width: 50px; height: 50px;">
-</div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/fatemeh-rasouli-a243a6379/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fatemeh Rasouli" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elnaz__rs" height="30" width="40" /></a>
+<h3 align="center">
+Frontend Developer • React • Next.js • TypeScript
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=3BA8FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+%7C+WordPress;Always+Learning+New+Things+🚀"/>
+</p>
+
+<p align="center">
+<a href="mailto:f.rasouli.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fatemeh-rasouli-a243a6379/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Fatemeh-Rasouli">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Fatemeh-Rasouli&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+💙 Frontend Developer passionate about building modern web applications.
+
+- ⚛️ React
+- ▲ Next.js
+- 📘 TypeScript
+- 🎨 Tailwind CSS
+- 🌐 WordPress & Elementor
+- 🔄 Redux Toolkit
+- 🔥 REST API
+- 🌱 Currently learning advanced frontend architecture
+- 📫 **f.rasouli.dev@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=redux"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=sass"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=wordpress"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Fatemeh-Rasouli&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatemeh-Rasouli&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+
+# 💼 Featured Projects
+
+| Project | Stack |
+|----------|-------|
+| 🎓 LMS Dashboard | React • TypeScript |
+| 👩‍🏫 Teacher Assignment Panel | React • Tailwind CSS |
+| 🛒 E-commerce Website | Next.js • TypeScript |
+| 🌐 Business Website | WordPress • Elementor |
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:f.rasouli.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fatemeh-rasouli-a243a6379/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://github.com/Fatemeh-Rasouli">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</h2>
+
+<p align="center">
+
+<i>"Code • Learn • Build • Repeat 🚀"</i>
+
+</p>
