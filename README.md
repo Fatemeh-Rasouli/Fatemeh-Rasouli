@@ -20,7 +20,6 @@ Frontend Developer • React • Next.js • TypeScript
 <a href="https://github.com/Fatemeh-Rasouli">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
@@ -31,7 +30,9 @@ Frontend Developer • React • Next.js • TypeScript
 
 # 👩‍💻 About Me
 
-💙 Frontend Developer passionate about building modern web applications.
+💙 Frontend Developer passionate about creating modern, responsive and user-friendly web applications using React, Next.js and TypeScript.
+
+I enjoy solving real-world problems, learning new technologies and continuously improving my frontend development skills.
 
 - ⚛️ React
 - ▲ Next.js
@@ -40,8 +41,19 @@ Frontend Developer • React • Next.js • TypeScript
 - 🌐 WordPress & Elementor
 - 🔄 Redux Toolkit
 - 🔥 REST API
+- 💻 Responsive Design
 - 🌱 Currently learning advanced frontend architecture
+- 💼 Open to Junior Frontend Developer opportunities
 - 📫 **f.rasouli.dev@gmail.com**
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building scalable React & Next.js applications
+- 📚 Learning advanced frontend architecture
+- ⚡ Improving TypeScript skills
+- 🌍 Looking for Frontend Developer opportunities
 
 ---
 
@@ -50,33 +62,19 @@ Frontend Developer • React • Next.js • TypeScript
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=html"/>
-
 <img src="https://skillicons.dev/icons?i=css"/>
-
 <img src="https://skillicons.dev/icons?i=js"/>
-
 <img src="https://skillicons.dev/icons?i=ts"/>
-
 <img src="https://skillicons.dev/icons?i=react"/>
-
 <img src="https://skillicons.dev/icons?i=nextjs"/>
-
 <img src="https://skillicons.dev/icons?i=redux"/>
-
 <img src="https://skillicons.dev/icons?i=tailwind"/>
-
 <img src="https://skillicons.dev/icons?i=sass"/>
-
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
-
 <img src="https://skillicons.dev/icons?i=wordpress"/>
-
 <img src="https://skillicons.dev/icons?i=git"/>
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
 <img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
@@ -103,15 +101,24 @@ Frontend Developer • React • Next.js • TypeScript
 
 ---
 
-
 # 💼 Featured Projects
 
-| Project | Stack |
-|----------|-------|
-| 🎓 LMS Dashboard | React • TypeScript |
-| 👩‍🏫 Teacher Assignment Panel | React • Tailwind CSS |
-| 🛒 E-commerce Website | Next.js • TypeScript |
-| 🌐 Business Website | WordPress • Elementor |
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🎓 LMS Dashboard | Learning Management Dashboard | React • TypeScript |
+| 👩‍🏫 Teacher Assignment Panel | Assignment Management System | React • Tailwind CSS |
+| 🛒 E-commerce Website | Modern Online Shop | Next.js • TypeScript |
+| 🌐 Business Website | Responsive Company Website | WordPress • Elementor |
+
+---
+
+# 🏆 Highlights
+
+- ✅ Responsive Web Design
+- ✅ Component-Based Architecture
+- ✅ REST API Integration
+- ✅ Git & GitHub Workflow
+- ✅ Clean Code Principles
 
 ---
 
@@ -143,6 +150,6 @@ Frontend Developer • React • Next.js • TypeScript
 
 <p align="center">
 
-<i>"Code • Learn • Build • Repeat 🚀"</i>
+<i>Building clean, responsive and user-focused web applications 🚀</i>
 
 </p>
