@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋 I'm Fatemeh (Elnaz) Rasouli</h1>
 
 <h3 align="center">
-Frontend Developer • React • Next.js • TypeScript
+Frontend Developer | React • Next.js • TypeScript
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=3BA8FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+%7C+WordPress;Always+Learning+New+Things+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+%7C+Redux+Toolkit;Building+Modern+Web+Applications+🚀"/>
 </p>
 
 <p align="center">
+
 <a href="mailto:f.rasouli.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -20,6 +21,7 @@ Frontend Developer • React • Next.js • TypeScript
 <a href="https://github.com/Fatemeh-Rasouli">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
@@ -30,30 +32,21 @@ Frontend Developer • React • Next.js • TypeScript
 
 # 👩‍💻 About Me
 
-💙 Frontend Developer passionate about creating modern, responsive and user-friendly web applications using React, Next.js and TypeScript.
+Frontend Developer passionate about building clean, responsive and modern web applications.
 
-I enjoy solving real-world problems, learning new technologies and continuously improving my frontend development skills.
+I enjoy learning new technologies, solving real-world problems and creating intuitive user experiences.
 
 - ⚛️ React
 - ▲ Next.js
 - 📘 TypeScript
 - 🎨 Tailwind CSS
-- 🌐 WordPress & Elementor
 - 🔄 Redux Toolkit
+- 🌐 WordPress & Elementor
 - 🔥 REST API
-- 💻 Responsive Design
+- 📱 Responsive Design
+- 💻 Git & GitHub
 - 🌱 Currently learning advanced frontend architecture
 - 💼 Open to Junior Frontend Developer opportunities
-- 📫 **f.rasouli.dev@gmail.com**
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building scalable React & Next.js applications
-- 📚 Learning advanced frontend architecture
-- ⚡ Improving TypeScript skills
-- 🌍 Looking for Frontend Developer opportunities
 
 ---
 
@@ -81,6 +74,7 @@ I enjoy solving real-world problems, learning new technologies and continuously 
 
 ---
 
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -103,22 +97,77 @@ I enjoy solving real-world problems, learning new technologies and continuously 
 
 # 💼 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🎓 LMS Dashboard | Learning Management Dashboard | React • TypeScript |
-| 👩‍🏫 Teacher Assignment Panel | Assignment Management System | React • Tailwind CSS |
-| 🛒 E-commerce Website | Modern Online Shop | Next.js • TypeScript |
-| 🌐 Business Website | Responsive Company Website | WordPress • Elementor |
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🛒 Ecommerce Website | Modern shopping website | React • TypeScript |
+| 🌤 Weather App | Weather forecast using API | React • REST API |
+| 🌍 Country Guide App | Country information application | React • API |
+| ⚡ React GraphQL | GraphQL practice project | React • GraphQL |
+| 🎨 Personal Portfolio | Responsive portfolio website | React |
+| 📰 Nuntium | News website | React |
+| 🏨 Hotel Website | Responsive hotel landing page | HTML • CSS • JavaScript |
+
+---
+
+# 🧩 Mini Projects
+
+✔ Todo List
+
+✔ Calculator
+
+✔ Password Generator
+
+✔ Password Strength Checker
+
+✔ Product Filter
+
+✔ Search Box
+
+✔ Contact Form
+
+✔ Modal
+
+✔ Accordion
+
+✔ Navbar
+
+✔ Sidebar
+
+✔ Slider
+
+✔ Scroll Indicator
+
+✔ Lightbox
+
+✔ Dark Mode
+
+✔ Unsplash Photo Search
+
+✔ Color Generator
+
+✔ Smooth Scroll
+
+✔ Interactive 404 Page
+
+✔ Detect Key Pressed
+
+✔ Lorem Ipsum Generator
+
+...and many more 🚀
 
 ---
 
 # 🏆 Highlights
 
-- ✅ Responsive Web Design
-- ✅ Component-Based Architecture
+- ✅ 50+ GitHub repositories
+- ✅ Real-world React projects
+- ✅ Responsive UI Development
 - ✅ REST API Integration
-- ✅ Git & GitHub Workflow
-- ✅ Clean Code Principles
+- ✅ Redux Toolkit
+- ✅ GraphQL Basics
+- ✅ WordPress & Elementor
+- ✅ Clean Code
+- ✅ Component-Based Architecture
 
 ---
 
@@ -142,6 +191,14 @@ I enjoy solving real-world problems, learning new technologies and continuously 
 
 ---
 
+# 📂 More Projects
+
+Explore all of my repositories here:
+
+⭐ **https://github.com/Fatemeh-Rasouli?tab=repositories**
+
+---
+
 <h2 align="center">
 
 ✨ Thanks for visiting my profile ✨
@@ -150,6 +207,6 @@ I enjoy solving real-world problems, learning new technologies and continuously 
 
 <p align="center">
 
-<i>Building clean, responsive and user-focused web applications 🚀</i>
+<i>"Building modern, responsive and user-focused web applications."</i>
 
 </p>
