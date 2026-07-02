@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Fatemeh (Elnaz) Rasouli</h1>
 
 <h3 align="center">
-Frontend Developer | React • Next.js • TypeScript
+Frontend Developer | React • Next.js | Learning TypeScript
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Tailwind+CSS+%7C+Redux+Toolkit;Building+Modern+Web+Applications+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=3BA8FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js;Building+Modern+Web+Applications+🚀"/>
 </p>
 
 <p align="center">
@@ -24,29 +24,34 @@ Frontend Developer | React • Next.js • TypeScript
 
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Fatemeh-Rasouli&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
-
 ---
 
 # 👩‍💻 About Me
 
-Frontend Developer passionate about building clean, responsive and modern web applications.
+Frontend Developer passionate about building clean, responsive and scalable web applications.
 
-I enjoy learning new technologies, solving real-world problems and creating intuitive user experiences.
+I enjoy solving real-world problems, working in development teams, and continuously improving my frontend skills.
 
 - ⚛️ React
 - ▲ Next.js
-- 📘 TypeScript
+- 📘 JavaScript (strong foundation)
+- 🟡 TypeScript (currently improving)
 - 🎨 Tailwind CSS
 - 🔄 Redux Toolkit
 - 🌐 WordPress & Elementor
-- 🔥 REST API
-- 📱 Responsive Design
-- 💻 Git & GitHub
-- 🌱 Currently learning advanced frontend architecture
-- 💼 Open to Junior Frontend Developer opportunities
+- 🔥 REST API Integration
+- 📱 Responsive UI Development
+- 💻 Git & GitLab workflow
+
+---
+
+# 💼 Current Focus
+
+- Working on real-world frontend projects using Next.js
+- Collaborating in a development team using GitLab
+- Building reusable and scalable UI components
+- Improving JavaScript and TypeScript skills
+- Preparing for frontend roles in international companies
 
 ---
 
@@ -62,112 +67,44 @@ I enjoy learning new technologies, solving real-world problems and creating intu
 <img src="https://skillicons.dev/icons?i=nextjs"/>
 <img src="https://skillicons.dev/icons?i=redux"/>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
-<img src="https://skillicons.dev/icons?i=sass"/>
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-<img src="https://skillicons.dev/icons?i=wordpress"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
 
 </p>
 
 ---
 
+# 📌 Featured Projects
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Fatemeh-Rasouli&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatemeh-Rasouli&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 💼 Featured Projects
-
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 🛒 Ecommerce Website | Modern shopping website | React • TypeScript |
-| 🌤 Weather App | Weather forecast using API | React • REST API |
-| 🌍 Country Guide App | Country information application | React • API |
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🛒 Ecommerce Website | Modern shopping platform | React • TypeScript |
+| 🌤 Weather App | API-based weather application | React • REST API |
+| 🌍 Country Guide App | Country information explorer | React • API |
 | ⚡ React GraphQL | GraphQL practice project | React • GraphQL |
 | 🎨 Personal Portfolio | Responsive portfolio website | React |
-| 📰 Nuntium | News website | React |
-| 🏨 Hotel Website | Responsive hotel landing page | HTML • CSS • JavaScript |
 
 ---
 
-# 🧩 Mini Projects
+# 🧠 Learning & Practice
 
-✔ Todo List
+Built multiple mini projects to strengthen frontend fundamentals such as:
 
-✔ Calculator
-
-✔ Password Generator
-
-✔ Password Strength Checker
-
-✔ Product Filter
-
-✔ Search Box
-
-✔ Contact Form
-
-✔ Modal
-
-✔ Accordion
-
-✔ Navbar
-
-✔ Sidebar
-
-✔ Slider
-
-✔ Scroll Indicator
-
-✔ Lightbox
-
-✔ Dark Mode
-
-✔ Unsplash Photo Search
-
-✔ Color Generator
-
-✔ Smooth Scroll
-
-✔ Interactive 404 Page
-
-✔ Detect Key Pressed
-
-✔ Lorem Ipsum Generator
-
-...and many more 🚀
+- UI components (Navbar, Modal, Slider, Sidebar)
+- JavaScript logic challenges
+- API integration exercises
+- Responsive design practice
 
 ---
 
-# 🏆 Highlights
+# 🏆 Experience Highlights
 
-- ✅ 50+ GitHub repositories
-- ✅ Real-world React projects
-- ✅ Responsive UI Development
-- ✅ REST API Integration
-- ✅ Redux Toolkit
-- ✅ GraphQL Basics
-- ✅ WordPress & Elementor
-- ✅ Clean Code
-- ✅ Component-Based Architecture
+- Frontend development in real-world company projects (Next.js)
+- Working with GitLab in a team environment
+- Building responsive and reusable UI components
+- REST API integration and state management
+- Clean code and component-based architecture
 
 ---
 
@@ -191,22 +128,4 @@ I enjoy learning new technologies, solving real-world problems and creating intu
 
 ---
 
-# 📂 More Projects
-
-Explore all of my repositories here:
-
-⭐ **https://github.com/Fatemeh-Rasouli?tab=repositories**
-
----
-
-<h2 align="center">
-
-✨ Thanks for visiting my profile ✨
-
-</h2>
-
-<p align="center">
-
-<i>"Building modern, responsive and user-focused web applications."</i>
-
-</p>
+<h2 align="center">✨ Thanks for visiting my profile ✨</h2>
